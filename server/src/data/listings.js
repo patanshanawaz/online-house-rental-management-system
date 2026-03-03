@@ -1,0 +1,80 @@
+export const listings = [
+  {
+    id: "LST-001",
+    title: "Student-friendly shared room",
+    area: "Gorantla",
+    district: "Sri Sathya Sai",
+    state: "Andhra Pradesh",
+    rentInr: 3200,
+    distanceToCampusKm: 1.4,
+    type: "Shared Room",
+    suitableFor: ["Students"],
+    amenities: ["Wi-Fi", "Study Table", "Water"],
+    contact: "+91-90000-10001"
+  },
+  {
+    id: "LST-002",
+    title: "Family apartment near market",
+    area: "Gorantla",
+    district: "Sri Sathya Sai",
+    state: "Andhra Pradesh",
+    rentInr: 8500,
+    distanceToCampusKm: 2.8,
+    type: "1BHK",
+    suitableFor: ["University Staff", "Families"],
+    amenities: ["Parking", "Power Backup", "Water"],
+    contact: "+91-90000-10002"
+  },
+  {
+    id: "LST-003",
+    title: "Boys hostel beds",
+    area: "Gownivaripalli",
+    district: "Sri Sathya Sai",
+    state: "Andhra Pradesh",
+    rentInr: 4200,
+    distanceToCampusKm: 0.7,
+    type: "Hostel",
+    suitableFor: ["Students"],
+    amenities: ["Food", "Wi-Fi", "Security"],
+    contact: "+91-90000-10003"
+  },
+  {
+    id: "LST-004",
+    title: "Private room on Bagepalli road",
+    area: "Bagepalli",
+    district: "Chikkaballapur",
+    state: "Karnataka",
+    rentInr: 5000,
+    distanceToCampusKm: 21,
+    type: "Private Room",
+    suitableFor: ["Students", "University Staff"],
+    amenities: ["Wi-Fi", "Attached Bath"],
+    contact: "+91-90000-10004"
+  },
+  {
+    id: "LST-005",
+    title: "Budget independent room",
+    area: "Bagepalli",
+    district: "Chikkaballapur",
+    state: "Karnataka",
+    rentInr: 3600,
+    distanceToCampusKm: 18.2,
+    type: "Single Room",
+    suitableFor: ["Students"],
+    amenities: ["Water", "Wardrobe"],
+    contact: "+91-90000-10005"
+  },
+  {
+    id: "LST-006",
+    title: "Staff quarter style 2BHK",
+    area: "Gorantla",
+    district: "Sri Sathya Sai",
+    state: "Andhra Pradesh",
+    rentInr: 12000,
+    distanceToCampusKm: 3.5,
+    type: "2BHK",
+    suitableFor: ["University Staff", "Families"],
+    amenities: ["Parking", "Power Backup", "Gated"],
+    contact: "+91-90000-10006"
+  }
+];
